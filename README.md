@@ -1,2 +1,2 @@
-# images
-Personal Wiki Images
+# Images
+Image used for personal blog site
